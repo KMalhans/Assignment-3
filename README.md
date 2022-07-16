@@ -8,4 +8,7 @@ It will run on your browser.
 All the other pages are linked with Index.html but you can run them separetly as well.
 
 
+
+Tutor's Email : mrajkumar@conestogac.on.ca
+
 Thank You
